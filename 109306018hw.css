@@ -1,0 +1,35 @@
+body{
+ background-color: pink;
+
+}
+.A{
+
+ background-color:skyblue; 
+ color: white;
+ font-size: 150%;
+ text-align: center;
+ 
+}
+#B{
+ color: gray;
+ font-size: 100%;
+  margin-left:auto;
+    margin-right:auto;
+}
+#C{
+ 
+ color: #00AEAE;
+ font-size: 100%;
+ margin:1% 30% 10% 3%;
+}
+
+.D{
+ float:left;
+ margin:-28% 3% 3% 3%;
+}
+
+.E{
+color: #00AEAE;
+font-size: 120%;
+ margin:-10% 3% 3% 3%;
+}
